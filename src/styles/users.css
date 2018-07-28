@@ -1,0 +1,38 @@
+.usersList {
+	width: 70%;
+	max-height: 90vh;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	overflow-y: auto;
+}
+
+.spinner {
+	position: relative;
+	left: 47%;
+}
+
+.buttons {
+	display: flex;
+	margin-top: 5px;
+}
+
+.buttons Button {
+	flex: 1 1 auto;
+}
+
+table, th {
+	text-align: center;
+}
+
+td {
+	vertical-align: middle !important;
+}
+
+td button {
+	width: 40px;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+}
